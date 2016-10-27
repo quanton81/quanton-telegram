@@ -1,3 +1,5 @@
+<?php
+
 define('BOT_TOKEN', '1111:aaaa');
 define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
 
